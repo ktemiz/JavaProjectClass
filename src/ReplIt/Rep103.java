@@ -20,7 +20,7 @@ public class Rep103 {
 	
 
 
-	public static void Rep103(String[] args) {
+	public static void main(String[] args) {
 		
 		Rep103 typeHusky = new Rep103();
 		

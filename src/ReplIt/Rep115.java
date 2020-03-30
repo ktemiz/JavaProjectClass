@@ -14,6 +14,7 @@ public class Rep115 {
 		Rep115 obj=new Rep115();
 		System.out.println(obj.censorLetter("computer science", 'e'));
 		System.out.println(obj.censorLetter("trick or treat", 't'));
+		
+	
 	}
-
 }
