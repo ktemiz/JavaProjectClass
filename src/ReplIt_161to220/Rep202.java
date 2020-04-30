@@ -23,8 +23,9 @@ public class Rep202 {
 			
 		}
 		System.out.println("-------------");
-		letters.remove("ONE");
-		letters.remove("FOUR");
+		
+		map.remove("ONE");
+		map.remove("FOUR");
 		
 		Iterator<Entry<String, String>> k = letters.iterator();
 		while(k.hasNext()) {
